@@ -1,5 +1,13 @@
 # OctoAcme Project Management Documentation
 
+> Preface: This README is the entry point for OctoAcme's project management process docs. Use it to quickly orient new team members and jump to phase- or topic-specific guidance below.
+
+## TL;DR
+- Phases: Initiation → Planning → Execution → Release → Retrospective
+- Roles: Project Manager, Product Manager, Developers, QA, Stakeholders
+- Communication: Daily standups, weekly delivery syncs, milestone stakeholder updates
+- Quality: Small PRs, CI checks (tests, linters, security), and a release checklist
+
 ## Overview
 
 OctoAcme runs projects with a lightweight, stage-based workflow that moves work from initiation through planning, execution, release, and retrospective. Initiation captures the problem, stakeholders, success metrics, and a one‑pager to decide go/no‑go. Planning breaks approved initiatives into a prioritized backlog with acceptance criteria, estimates, a Definition of Done, and a release / milestone map. Execution is managed on a project board and emphasizes small, reviewable pull requests, CI checks, and regular demos; retrospectives capture learnings and convert them into action items.
@@ -35,4 +43,3 @@ Quality assurance and risk management are integrated into the flow rather than t
 - Start here to orient new team members and link into the specific phase doc you need.
 - Keep the project README updated with status and links to project‑specific artifacts (one‑pager, risk register, release notes).
 - Use the templates and checklists in each doc to standardize planning, execution, QA, and releases.
-
